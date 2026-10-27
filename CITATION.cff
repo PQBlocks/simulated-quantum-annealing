@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pqblocks-anneal-sqa"
+version: "0.1.0"
+license: Apache-2.0
+repository-code: "https://github.com/PQBlocks/simulated-quantum-annealing"
+authors:
+  - name: "The PQBlocks Authors"
+keywords:
+  - simulated-quantum-annealing
+  - sqa
+  - ising
+  - qubo
+  - quantum-inspired
+  - path-integral
+  - suzuki-trotter
+  - numba
+abstract: "Simulated Quantum Annealing (Path-Integral Monte Carlo via Suzuki-Trotter decomposition) heuristic solver for Ising and QUBO optimization. Quantum-inspired classical optimization, not cryptography."
